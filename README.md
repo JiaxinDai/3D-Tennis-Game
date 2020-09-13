@@ -1,5 +1,5 @@
 # 3D Tennis Game
-A simple 3D tennis game implemented from scratch using just standard java 2D library.
+A simple 3D tennis game written in Java using Swing and AWT
 
 ## Executable jar
 https://github.com/JiaxinDai/3D-Tennis-Game/blob/master/3DTennisGame/dist/3DTennisGame.jar
